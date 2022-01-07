@@ -1,5 +1,6 @@
 // Importáld be a HumanHero és TransformerHero osztályokat.
-
+import { HumanHero } from "./hero";
+import { TransformerHero } from "./transformer";
 
 /**
  * Állítsd be helyesen a változót!
@@ -9,6 +10,7 @@
  * @var {HumanHero[]} humans
  */
 export const humans: any[] = [];
+
 
 /**
  * Állítsd be helyesen a változót!
